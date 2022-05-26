@@ -210,5 +210,8 @@ final_df.plot.bar(color="teal")
 
 ![p19](https://user-images.githubusercontent.com/94211349/170409010-2fbdb2de-2217-4af3-a698-e872634f98a8.jpeg)
 
+## RESULT:
+Hence various feature selecetion techniques are applied to the given data set successfully and save the data into the file.
+
 
 
